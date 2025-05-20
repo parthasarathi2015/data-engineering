@@ -1,0 +1,7 @@
+delta-spark==2.4.0 
+pandas 
+matplotlib 
+seaborn
+sqlalchemy
+pymysql
+openpyxl
